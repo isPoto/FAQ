@@ -1,5 +1,5 @@
 # FAQ
-frequently asked questions about Poto and his softwares
+*frequently asked questions about Poto and his softwares*
 
 **1.Why does my antivirus software reported that this is dangerous software?**
 
