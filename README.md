@@ -12,6 +12,7 @@ You can also submit the software developed by Poto to the antivirus software you
 You may still not trust Poto, and that's okay. You can [sponsor Poto](https://ko-fi.com/ispoto). free is the most expensive, and all the distrust and security threats are because of the interest. When you pay for this, you can also rest assured.
 
 **2.Why should I trust you?**
+
 Poto develops software to share with you, to help you solve problems and make your computer experience more comfortable.
 
 Poto has a decent income, Poto sells the software he develops, you can buy the software you need in [Poto's store](https://ko-fi.com/ispoto/shop), which brings revenue to Poto.
